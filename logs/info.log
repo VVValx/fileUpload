@@ -1,0 +1,42 @@
+{ message: 'Listening to port 5000',
+  level: 'info',
+  timestamp: '2020-11-16T15:35:56.488Z' }
+{ message: 'Connected to database',
+  level: 'info',
+  timestamp: '2020-11-16T15:35:56.507Z' }
+{ message: 'Listening to port 5000',
+  level: 'info',
+  timestamp: '2020-11-16T15:38:31.334Z' }
+{ message: 'Connected to database',
+  level: 'info',
+  timestamp: '2020-11-16T15:38:31.356Z' }
+{ message: 'Listening to port 5000',
+  level: 'info',
+  timestamp: '2020-11-16T15:39:24.948Z' }
+{ message: 'Connected to database',
+  level: 'info',
+  timestamp: '2020-11-16T15:39:24.969Z' }
+{ message: 'Listening to port 5000',
+  level: 'info',
+  timestamp: '2020-11-16T15:40:57.857Z' }
+{ message: 'Connected to database',
+  level: 'info',
+  timestamp: '2020-11-16T15:40:57.877Z' }
+{ message: 'Listening to port 5000',
+  level: 'info',
+  timestamp: '2020-11-16T15:42:00.562Z' }
+{ message: 'Connected to database',
+  level: 'info',
+  timestamp: '2020-11-16T15:42:00.581Z' }
+{ message: 'Listening to port 5000',
+  level: 'info',
+  timestamp: '2020-11-16T15:47:22.816Z' }
+{ name: 'MongoParseError',
+  level: 'error',
+  timestamp: '2020-11-16T15:47:22.821Z' }
+{ message: 'Listening to port 5000',
+  level: 'info',
+  timestamp: '2020-11-16T15:48:17.026Z' }
+{ message: 'Connected to database',
+  level: 'info',
+  timestamp: '2020-11-16T15:48:17.051Z' }

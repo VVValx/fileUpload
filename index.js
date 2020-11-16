@@ -1,5 +1,9 @@
 const express = require("express");
-require("dotenv").config();
 const app = express();
+const { logger } = require("./logger/logger");
+require("dotenv").config();
+require("./startup/db")();
 
-console.log(process.env.PORT);
+const port = process.env.PORT;
+
+app.listen(port, () => logger.info(`Listening to port ${port}`));
