@@ -3,7 +3,7 @@ const router = express.Router();
 const upload = require("../filehandler/multer");
 const { Image } = require("../model/images");
 
-router.post("/upload", upload.single("avatar"), async (req, res) => {
+router.post("/upload", upload.single("image"), async (req, res) => {
   let image = await Image.findOne({ originalname: req.file.originalname });
   if (image) return res.status(400).send("Image already in database");
 

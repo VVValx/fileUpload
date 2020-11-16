@@ -5,3 +5,11 @@
   storageErrors: [],
   level: 'error',
   timestamp: '2020-11-16T17:57:35.660Z' }
+{ name: 'MulterError',
+  message: 'Unexpected field',
+  code: 'LIMIT_UNEXPECTED_FILE',
+  field: 'avatar',
+  storageErrors: [],
+  level: 'error',
+  timestamp: '2020-11-16T19:52:33.610Z' }
+{ level: 'error', timestamp: '2020-11-16T21:52:06.671Z' }
